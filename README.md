@@ -10,7 +10,7 @@
 
 - 👨‍💻 My Portfolio Website Link [https://shubhamsaini17.github.io/myportfolio/](https://shubhamsaini17.github.io/myportfolio/)
 
-- 💬 Ask me about **Web Development , Cyber Security , Ethical Hacking**
+- 💬 Ask me about **Web Development , Cybersecurity , Ethical Hacking**
 
 - 📫 How to reach me **shubham.saini1706@gmail.com**
 
