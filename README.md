@@ -8,20 +8,19 @@
 
 - 🌱 I’m currently learning **ReactJS , MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://shubhamsaini17.github.io/myportfolio/](https://shubhamsaini17.github.io/myportfolio/)
+- 👨‍💻 My Portfolio Website Link [https://shubhamsaini17.github.io/myportfolio/](https://shubhamsaini17.github.io/myportfolio/)
 
 - 💬 Ask me about **Web Development , Cyber Security , Ethical Hacking**
 
 - 📫 How to reach me **shubham.saini1706@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sS_DIegDVS9BljL5vANZKGUzQqekdctB/view?usp=sharing](https://drive.google.com/file/d/1sS_DIegDVS9BljL5vANZKGUzQqekdctB/view?usp=sharing)
+- 📄 Resume [https://drive.google.com/file/d/1sS_DIegDVS9BljL5vANZKGUzQqekdctB/view?usp=sharing](https://drive.google.com/file/d/1sS_DIegDVS9BljL5vANZKGUzQqekdctB/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shubhamsaini17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhamsaini17/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/123subm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/123subm" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://www.codingninjas.com/studio/profile/anonymous_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.codingninjas.com/studio/profile/anonymous_user" height="30" width="40" /></a>
-<a href="/https://www.codingninjas.com/studio/profile/anonymous_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.codingninjas.com/studio/profile/anonymous_user" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubhamsaini17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhamsaini17/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/123subm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/123subm" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/anonymous_user" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="https://www.codingninjas.com/studio/profile/anonymous_user" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
