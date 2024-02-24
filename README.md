@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/shubhamsaini17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shubhamsaini17/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/123subm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/123subm" height="30" width="40" /></a>
-<a href="https://www.codingninjas.com/studio/profile/anonymous_user" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="https://www.codingninjas.com/studio/profile/anonymous_user" height="30" width="40" /></a>
+<a href="https://www.codingninjas.com/studio/profile/Anonymous_User" target="blank"><img align="center" src="https://www.codingninjas.com/assets-landing/images/CNLOGO.svg" alt="https://www.codingninjas.com/studio/profile/Anonymous_User" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
