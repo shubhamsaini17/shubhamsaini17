@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamsaini17&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamsaini17" /> </p>
 
-- 🌱 I’m currently learning **ReactJS , MongoDB**
+- 🌱 I’m currently learning **ReactJS, Backend , MongoDB**
 
 - 👨‍💻 My Portfolio Website Link [https://shubhamsaini17.github.io/myportfolio/](https://shubhamsaini17.github.io/myportfolio/)
 
