@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shubham</h1>
 <h3 align="center">A passionate Web developer & Ethical Hacker from India</h3>
-
+https://shubham-saini17.github.io/QrCodeGenerator/
 <img align="right" alt="Coding" width="250" src="https://upload.wikimedia.org/wikipedia/commons/4/43/Hacker_behind_PC.svg">
 <img align="right" alt="Coding" width="340" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
