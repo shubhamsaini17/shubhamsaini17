@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **shubham.saini1706@gmail.com**
 
-- 📄 Resume [https://drive.google.com/file/d/1sS_DIegDVS9BljL5vANZKGUzQqekdctB/view?usp=sharing](https://drive.google.com/file/d/1sS_DIegDVS9BljL5vANZKGUzQqekdctB/view?usp=sharing)
+- 📄 Resume [Click Here](https://drive.google.com/file/d/1bb5b3hAxh66g9kv088hTy81mzFnwoQAr/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
